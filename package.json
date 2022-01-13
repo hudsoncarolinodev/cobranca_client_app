@@ -1,0 +1,18 @@
+{
+  "name": "cobranca_client_app",
+  "version": "1.0.0",
+  "description": "App de simulação, emissão de  cobranças para clientes",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hudson Carolino",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
